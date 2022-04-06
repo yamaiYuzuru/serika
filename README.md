@@ -1,7 +1,7 @@
 <h1 align="center">
     <br>
     <a href="https://github.com/yamaiYuzuru/serika">
-    <img src="https://picfiles.alphacoders.com/503/503205.jpg">
+    <img src="https://i.imgur.com/PxbWf1E.jpg">
     </a>
     <br>
     Serika
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">Feel free to our Discord-server:</h3>
-<a href="https://discord.gg/Jn79gkdyVZ"><img src="https://discordapp.com/api/guilds/957307553858084944/widget.png?style=banner3" alt="Our discord server"></a>
+<a align="center" href="https://discord.gg/Jn79gkdyVZ"><img src="https://discordapp.com/api/guilds/957307553858084944/widget.png?style=banner3" alt="Our discord server"></a>
 
 # Overview
 
