@@ -22,7 +22,7 @@
 
 # Overview
 
-Serika is a fully modular bot. It means all features and commands can be disabled/enabled how you it like. You can host your own instance and maintain it. You can serika in to an admin bot, music bot, meme bot or only an anime/manga bot.
+Serika is a multi-purpose discord bot. You can use she for all, like: moderation, memes, utility, music, fun ||or nsfw (for the horny dudes. xD)||.
 
 The [installation](#installation) is easy and you don't need anything of coding knowledge.
 
