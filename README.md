@@ -22,7 +22,7 @@
 
 # Overview
 
-Serika is a multi-purpose discord bot. You can use she for all, like: moderation, memes, utility, music, fun ||or nsfw (for the horny dudes. xD)||.
+Serika is a multi-purpose discord bot. You can use she for all, like: moderation, memes, utility, music, fun <!--or nsfw (for the horny dudes. xD)-->.
 
 The [installation](#installation) is easy and you don't need anything of coding knowledge.
 
