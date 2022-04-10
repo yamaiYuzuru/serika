@@ -16,7 +16,7 @@
 • <a href="#license">License</a>
 </p>
 
-<h3 align="center">Feel free to our Discord-server:
+<h3 align="center">Feel free to our Discord-server:<br>
 <a href="https://discord.gg/Jn79gkdyVZ"><img src="https://discordapp.com/api/guilds/957307553858084944/widget.png?style=banner3" alt="Our discord server"></a>
 </h3>
 
